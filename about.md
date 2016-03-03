@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to my blog.My name is roirrow wang,and my home town is LiangYungang ,Jiangsu province.
+I graduated from Southeast University,and got a bachelor degree in computer science and technology in 2013.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I have worked in the internet industry as s programmer for almost three years.Most of the time,i am a java 
+back-end developer,adn i have a lot of experience of how to build a system with high availability,high concurrency,
+high scalability,higy performance etc. Moreover,i am also interested in front-end programming.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Now i am working at Alibaba.inc.If you want to know me,please go to  <a href="https://github.com/roirrow">my github</a>
+
+
