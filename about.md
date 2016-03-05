@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Welcome to my blog.My name is roirrow wang,and my home town is LiangYungang ,Jiangsu province,China.
+Welcome to my blog.My name is roirrow wang,and my home town is LiangYungang ,Jiangsu province,  China.
 I graduated from Southeast University,and got a bachelor degree in computer science and technology in 2013.
 
 I have worked in the internet industry as s programmer for almost three years.Most of the time,i am a java web 
