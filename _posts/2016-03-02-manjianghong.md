@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "满江红"
-date: 2016-03-02 23:02:28 +0800
+date: 2016-03-02
 categories: jekyll update
 ---
 
